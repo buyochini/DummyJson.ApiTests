@@ -1,0 +1,13 @@
+{
+  "cucumber.features": [
+    "src/DummyJson.ApiTests/Features/**/*.feature"
+  ],
+  "cucumber.glue": [
+    "src/DummyJson.ApiTests/StepDefinitions/**/*.cs"
+  ],
+  "cucumberautocomplete.steps": [
+    "src/DummyJson.ApiTests/StepDefinitions/**/*.cs"
+  ],
+  "cucumberautocomplete.syncfeatures": "src/DummyJson.ApiTests/Features/**/*.feature",
+  "cucumberautocomplete.strictGherkinCompletion": true
+}

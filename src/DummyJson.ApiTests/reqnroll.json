@@ -1,0 +1,14 @@
+{
+  "$schema": "https://schemas.reqnroll.net/reqnroll-config-latest.json",
+  "bindingCulture": {
+    "language": "en-US"
+  },
+  "language": {
+    "feature": "en-US"
+  },
+  "formatters": {
+    "html": {
+      "outputFilePath": "reports/reqnroll_report.html"
+    }
+  }
+}
